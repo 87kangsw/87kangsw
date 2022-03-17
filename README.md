@@ -4,6 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=87kangsw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://opgc.me/#/users/87kangsw" target="_blank"><img src="https://api.opgc.me/githubs/users/87kangsw/tag/?theme=basic" /></a>
 
 - 📱 iOS Developer
 - 🐈 Cat Butler
